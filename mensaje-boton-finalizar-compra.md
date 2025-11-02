@@ -1,6 +1,6 @@
-# 💡 Agrega un mensaje personalizado justo encima del botón **“Finalizar compra”** para aumentar la confianza del cliente — por ejemplo:  
+# 💡 Agrega un mensaje personalizado justo encima del botón **“Finalizar compra”**:  
 
-> 🔒 Tu pago es 100% seguro y tus datos están protegidos con cifrado SSL.
+> Por ejemplo: 🔒 Tu pago es 100% seguro y tus datos están protegidos con cifrado SSL.
 
 ---
 
