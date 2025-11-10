@@ -11,3 +11,6 @@ Este snippet reemplaza el texto **“Acceder”** (o “Login”) que aparece en
 
 ## [Personalizar la pestaña “Registrarse” en WooCommerce](https://github.com/josenestormtz/woocommerce/blob/c2a9e2fb9d6a936aed5cbca163310fdf11c50230/personalizar-pesta%C3%B1a-registrarse.md)
 En esta guía aprenderemos a reemplazar el formulario de registro por un mensaje personalizado y un botón de enlace externo, además de cambiar el título predeterminado “Registrarse” por “Registro” para una experiencia más clara y adaptada a la marca.
+
+## [Mostrar precios con o sin impuestos en WooCommerce](https://github.com/josenestormtz/woocommerce/blob/00adc007c2674b00cda0391e74b7c89fcab5c98e/precios-con-o-sin-impuestos.md)
+En WooCommerce existen funciones que te permiten controlar cómo se muestran los precios en tus plantillas o snippets personalizados.
