@@ -15,5 +15,8 @@ Este snippet reemplaza el texto **“Acceder”** (o “Login”) que aparece en
 ## [Personalizar la pestaña “Registrarse” en WooCommerce](https://github.com/josenestormtz/woocommerce/blob/c2a9e2fb9d6a936aed5cbca163310fdf11c50230/personalizar-pesta%C3%B1a-registrarse.md)
 En esta guía aprenderemos a reemplazar el formulario de registro por un mensaje personalizado y un botón de enlace externo, además de cambiar el título predeterminado “Registrarse” por “Registro” para una experiencia más clara y adaptada a la marca.
 
+## [📝 Cómo copiar y personalizar una plantilla](https://github.com/josenestormtz/woocommerce/blob/2b55fcdb5842a5b13780a48121a02aaed286d2f8/como-copiar-y-personalizar-una-plantilla.md)
+Cuando necesitas modificar una plantilla de WooCommerce (como Editar Cuenta), no debes editar los archivos del plugin, porque se perderán con cada actualización.
+
 ## [Administrar scripts en la página Editar direcciones](https://github.com/josenestormtz/woocommerce/blob/6ea0f6ca8732de78bd2fe5b7fb8b52b9497ef134/administrar-scripts-editar-direcciones.md)
 Aprender a agregar o quitar scripts y estilos (como Bootstrap o los de tu tema) solo en la página Editar direcciones del área Mi cuenta de WooCommerce.
