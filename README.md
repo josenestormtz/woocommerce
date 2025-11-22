@@ -20,3 +20,6 @@ Cuando necesitas modificar una plantilla de WooCommerce (como Editar Cuenta), no
 
 ## [Administrar scripts en la página Editar direcciones](https://github.com/josenestormtz/woocommerce/blob/6ea0f6ca8732de78bd2fe5b7fb8b52b9497ef134/administrar-scripts-editar-direcciones.md)
 Aprender a agregar o quitar scripts y estilos (como Bootstrap o los de tu tema) solo en la página Editar direcciones del área Mi cuenta de WooCommerce.
+
+## [📝 Insertar una plantilla de Elementor dentro de una plantilla de WooCommerce](insertar-una-plantilla-elementor-dentro-de-woocommerce.md)
+Este tutorial explica cómo mostrar una plantilla creada con Elementor directamente dentro de un template personalizado de WooCommerce, por ejemplo en la página Editar cuenta.
