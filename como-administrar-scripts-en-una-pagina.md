@@ -1,11 +1,26 @@
-# ⚙️ Administrar scripts en la página Editar direcciones (WooCommerce)
+# ⚙️ Administrar scripts en una página de WooCommerce
+
 ## 🎯 Objetivo
 Aprender a **agregar o quitar scripts y estilos** (como Bootstrap o los de tu tema) **solo** en la página **Editar direcciones** del área *Mi cuenta* de WooCommerce.
 
 ## 🧩 Paso 1: Detectar la página y el endpoint activo
 WooCommerce utiliza *endpoints* para manejar cada pestaña de “Mi cuenta”.
 
-Podemos detectar en qué parte está el usuario con:
+✅ 1. Detectar página por slug
+```php
+if ( is_page( 'mi-pagina' ) ) {
+    // Código para esa página
+}
+```
+
+2. También funciona con ID:
+```php
+if ( is_page(123) ) {
+    // Esta es la página con ID 123
+}
+```
+
+3. Tambien Podemos detectar en qué parte está el usuario con:
 ```php
 WC()->query->get_current_endpoint();
 ```
