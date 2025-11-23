@@ -6,6 +6,9 @@ En WooCommerce existen funciones que te permiten controlar cómo se muestran los
 ## [Ver qué plantillas está usando tu tienda WooCommerce](https://github.com/josenestormtz/woocommerce/blob/2a8623e2794f9104965ceb706f6bd1d574d31439/plantillas-en-uso.md)
 A veces necesitas saber qué archivo de plantilla se está utilizando para una página específica de WooCommerce (por ejemplo, el carrito, el checkout o el producto individual). WooCommerce te permite revisar esta información fácilmente desde el panel de administración.
 
+## [📘 Obtener el usuario logeado y enviar sus datos a JavaScript](obtener-usuario-logeado-y-enviar-datos-a-javascript.md)
+Cómo obtener los datos del usuario logeado desde PHP a JavaScript
+
 ## [Habilitar pestaña de Registro en la página Mi Cuenta (WooCommerce)](https://github.com/josenestormtz/woocommerce/blob/3243fee580e2e3e32c91249f9a8ba2a03f895fa6/habilitar-registro-en-mi-cuenta.md)
 Guía rápida para activar la opción que permite a los clientes crear una cuenta desde la pantalla Mi Cuenta. Incluye pasos para habilitar el registro, guardar cambios y verificar la visualización.
 
@@ -18,7 +21,7 @@ En esta guía aprenderemos a reemplazar el formulario de registro por un mensaje
 ## [📝 Cómo copiar y personalizar una plantilla](https://github.com/josenestormtz/woocommerce/blob/2b55fcdb5842a5b13780a48121a02aaed286d2f8/como-copiar-y-personalizar-una-plantilla.md)
 Cuando necesitas modificar una plantilla de WooCommerce (como Editar Cuenta), no debes editar los archivos del plugin, porque se perderán con cada actualización.
 
-## [Administrar scripts en la página Editar direcciones](https://github.com/josenestormtz/woocommerce/blob/6ea0f6ca8732de78bd2fe5b7fb8b52b9497ef134/administrar-scripts-editar-direcciones.md)
+## [Administrar scripts en la página Editar direcciones](administrar-scripts-editar-direcciones.md)
 Aprender a agregar o quitar scripts y estilos (como Bootstrap o los de tu tema) solo en la página Editar direcciones del área Mi cuenta de WooCommerce.
 
 ## [📝 Insertar una plantilla de Elementor dentro de una plantilla de WooCommerce](insertar-una-plantilla-elementor-dentro-de-woocommerce.md)
