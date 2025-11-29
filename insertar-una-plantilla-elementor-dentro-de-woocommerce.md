@@ -1,8 +1,7 @@
 # 📝 Insertar una plantilla de Elementor dentro de una plantilla de WooCommerce
-
 Este tutorial explica cómo mostrar una plantilla creada con Elementor directamente dentro de un template personalizado de WooCommerce, por ejemplo en la página Editar cuenta.
 
-✅ 1. Crear o identificar una plantilla en Elementor
+## ✅ 1. Crear o identificar una plantilla en Elementor
 
 Ve a Elementor → Plantillas → Guardadas.
 
