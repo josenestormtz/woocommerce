@@ -33,6 +33,7 @@ add_action( 'wp_enqueue_scripts', function() {
         'nombre'       => $user->display_name,
         'nombre_real'  => $user->first_name,
         'apellido'     => $user->last_name,
+        'nombre_completo' => trim($user->first_name . ' ' . $user->last_name),
         'email'        => $user->user_email,
         'rol'          => isset($user->roles[0]) ? $user->roles[0] : null,
         'capabilities' => $user->caps,
